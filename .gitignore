@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/venv/
+env/
+.env
+
+# Node
+frontend/visual-matcher-frontend/node_modules/
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large data & artifacts
+backend/product_images/
+backend/embeddings.npy
+*.log
+
+# IDEs
+.vscode/
+.idea/
