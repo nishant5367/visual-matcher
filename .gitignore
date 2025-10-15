@@ -18,7 +18,7 @@ Thumbs.db
 
 # Large data & artifacts
 # backend/product_images/
-backend/embeddings.npy
+#backend/embeddings.npy
 *.log
 
 # IDEs
