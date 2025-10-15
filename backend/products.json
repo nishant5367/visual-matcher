@@ -96,12 +96,6 @@
     "image": "/static/product_images/prod_016.jpg"
   },
   {
-    "id": 17,
-    "name": "Product 17",
-    "category": "misc",
-    "image": "/static/product_images/prod_017.jpg"
-  },
-  {
     "id": 18,
     "name": "Product 18",
     "category": "misc",
